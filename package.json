@@ -1,0 +1,16 @@
+{
+  "author": "Juan Enrique Munoz <juanique@gmail.com>",
+  "name": "notifier",
+  "description": "An event handling module.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juanique99/node-notifier.git"
+  },
+  "main": "notifier.js",
+  "engines": {
+    "node": "~v0.4.11"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
