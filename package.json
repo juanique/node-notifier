@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git://github.com/juanique99/node-notifier.git"
   },
-  "main": "notifier.js",
+  "main": "./lib/notifier.js",
   "engines": {
     "node": "~v0.4.11"
   },
